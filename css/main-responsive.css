@@ -1,0 +1,24 @@
+/*==============================
+=            Mobile            =
+==============================*/
+@media screen and (max-width: 480px) {
+  body {
+    padding: 0; }
+
+  #name-title {
+    position: relative;
+    padding-top: 50px; }
+    #name-title h1 {
+      font-size: 48px; }
+    #name-title #title {
+      font-size: 28px; }
+
+  .banner .quote {
+    top: 125px;
+    font-size: 28px;
+    left: 0;
+    margin: 0; }
+
+  .first-wrapper {
+    margin: 300px 0 0 0; } }
+/*-----  End of Mobile  ------*/
